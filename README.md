@@ -12,4 +12,4 @@ Java.
 - Juan Allan
 - Maicon Ferreira
 - Luiz Felipe
-- Luan Lima
+- Luan Natan
